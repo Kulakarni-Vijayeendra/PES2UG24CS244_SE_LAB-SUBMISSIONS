@@ -1,0 +1,7 @@
+************* Module parking_lot_system
+parking_lot_system.py:27:0: C0103: Constant name "total_collections" doesn't conform to UPPER_CASE naming style (invalid-name)
+parking_lot_system.py:32:4: W0603: Using the global statement (global-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 9.67/10 (previous run: 9.67/10, +0.00)
+
